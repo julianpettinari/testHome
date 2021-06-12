@@ -1,0 +1,16 @@
+body{
+    background-color: azure;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+#accesos {color:rgb(45, 112, 65)}
+
+.noticia {font-size: 28px;}
+
+p{color: gray;}
+
+ul#listanav li{font-size: 18px; display: inline;}
+
+img.icon {height: 28px;
+        width: 42;}
